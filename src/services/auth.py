@@ -6,7 +6,7 @@ from datetime import datetime, timedelta
 from typing import Optional, Dict, Any
 
 # Firebase configuration
-FIREBASE_WEB_API_KEY = "AIzaSyBksB1F3SijViiS2v6iQK4eLlrDyCyt-t4"  # From Firebase Console
+FIREBASE_WEB_API_KEY = ""  # From Firebase Console
 FIREBASE_AUTH_DOMAIN = "streamlit-finance-tracker-2.firebaseapp.com"
 SESSION_EXPIRY_DAYS = 7
 
