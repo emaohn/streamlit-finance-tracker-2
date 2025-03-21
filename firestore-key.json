@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "streamlit-finance-tracker-2",
+  "private_key_id": "79cca1cfb9840deb3411d3aa813ab7ec42223ac9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCkm4lROz+QAxW0\nmpBewmUizh3gvPkC1aj+nb5gbvZ+u1T8ilpuO8GL6HxYRCn9nQtHcigliOHa713C\n54OYi3wZUI0EbbK5G5F41/oZKRDFhhZSDObNMYCG7+A1tCsA8G+FJHEdKFk7keE7\nsoqbYkSkuGa0oxqoAin6Fpp6mlPE1yQcrZ8Df6PR5NOr8mceRgXtjgnligsV0iiO\n9Bi54a9H3lKAs1JpUaVg6NSjhHdEBRkM1XOygE5cjPf7hXblCpO5yrVDnxUa6+6k\n9bjITlQ5dY+Gz8JXTeHWY8UEXFK5LPPA5J5eDbYiwC1/Vt9rg13wgTTcoxWPQz3i\nGldCtGDrAgMBAAECggEAAOAU3Fo4zc6+ZE34G5DkEcnPzdyjZFj3g5caJpAgfm8H\nlio0LebichiD5MJECOW3ZCNexEhUjyH7uSgbAoonWEkd3tqoeySC4wYe/dhCjxJV\n9wy7g3bSbKVE53Q0UFZ2+VnGwjVvOApgDL23z/i3TbrvTOGbKC6Ow5YwLxu3+1F5\nYCEnk7r9/ycA+z4fD6GZfh5o86YL3m07DElB8KeC5/KfPubC1Of9LRx/GdnldLCu\nkcnGp7GRvO929iKAm4aCDAphWjgGIZDafCop3nKdpaPHRrLYv//fM1IICwRT2sKI\n7ipOXJWfCqxGupwdOIQj3e5seQrexj6zEeoxDiSxhQKBgQDSH8JOJ+tw2qEc13Qr\nImuDZIdVMh+jBI+zcF7vaJNJgEhOAyrrwGRx7iNteDI1q1WYWvRQZqm3Oof6fR0r\nsDcXAMecDZrWrXQ3tN8ni4CGzu4jFKrFDS9qyn52zaAv+PGNdkfSU1wdkL0gx7sn\neahkvbAYFKD1dEh0QahkUiUz9wKBgQDIi8WzYB5//YIOEEkfJldMBCOrecC02bnY\nRmSDXjJwdgcAEM971vgouSniUp+HUVSXfRp5/6UOf4d0DgsxG8QCA0H7wU9H6UFR\njYu1JmkYhcNadzI/4bg2Qy+ZGuqCLn/xWMNXsRaB8xwY6+DkqH/4x1rqfNRZUVuF\nOiWTMtsVrQKBgGZubP5En5WoPpocvdi5MsgenYp+oMWLV7IVuXHj/Mj77EN7b9T1\nOQIBIOwgh/l5yIQ48pivM1TLB7aofyvo/zILg0MjrrOwYtM1LQPOEZ2mCpi3Xngo\n8VCR3gx0OP6p0LcxTdnOIT2YbVopg6a+u8RAZDOY+s4tHZTu3PPqx5AJAoGAM3OY\nv1KTwKabrVwERpehogEV3bKY/E033wMAWqvaKPw/A4dMlCss89W9pzEneKInH86a\n8l3iTPvvFplbybej7BhF339TBdIUTgYQp+M452+6FQWrwLP6fQFzvsYnEEs5zAPH\n6kGm0qQ6uzIZOtD4NC2BZ9Oq71duMZofdcqAZukCgYEAhMP4UCBZQKUVor3VPc7K\n4YQlUeG65BDUBAPQMc5hQDq4MtGvqHo71TaSixUgu6zndHH5si4Z42oJHvF1XrYi\nUVuAvL24g+g1Cm/epyj0zsqog1Y4fdKmnnsWJvXohe4qFSEHEEjpOTqc9rzwRfXB\nzB49LcNh/z99p0OKis74wzI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-72big@streamlit-finance-tracker-2.iam.gserviceaccount.com",
+  "client_id": "114225625853296872718",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-72big%40streamlit-finance-tracker-2.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
